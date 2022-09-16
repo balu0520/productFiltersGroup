@@ -1,0 +1,21 @@
+.rating-item {
+  display: flex;
+  justify-content: space-around;
+}
+.icon {
+  width: 180px;
+  height: 40px;
+}
+.active {
+  color: #0967d2;
+  font-family: 'Roboto';
+}
+.inactive {
+  color: #0f172a;
+  font-family: 'Roboto';
+}
+.btn {
+  border-width: 0;
+  cursor: pointer;
+  background-color: transparent;
+}
